@@ -1,6 +1,6 @@
-# Hi, I'm Andrea Pezzella
+# Andrea Pezzella
 
-Computer Science student focused on data analysis, data visualization, and business insights.
+_An aspiring Data Analyst_
 
 ## Skills
 - Python
