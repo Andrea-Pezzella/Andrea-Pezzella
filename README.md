@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Andrea Pezzella
 
-<!--
-**Andrea-Pezzella/Andrea-Pezzella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on data analysis, data visualization, and business insights.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Excel
+- Pandas
+- Matplotlib / Seaborn
+- Tableau or Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Project 1: [Name](repo-link) – one-line description
+- Project 2: [Name](repo-link) – one-line description
+- Project 3: [Name](repo-link) – one-line description
+- Project 4: [Name](repo-link) – one-line description
+
+## Connect with me
+- LinkedIn: your link
+- Email: your email
