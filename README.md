@@ -11,8 +11,8 @@ _An aspiring Data Analyst_
 - Tableau or Power BI
 
 ## Featured Projects
-- Project 1: Course Recommendation System (repo-link) – one-line description
-- Project 2: [Name](repo-link) – one-line description
+- Project 1: [Course Recommendation System] (repo-link) – one-line description
+- Project 2: [Social Media Trend Analysis](repo-link) – one-line description
 - Project 3: [Name](repo-link) – one-line description
 - Project 4: [Name](repo-link) – one-line description
 
