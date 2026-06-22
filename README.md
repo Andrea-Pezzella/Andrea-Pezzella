@@ -5,11 +5,13 @@ _Aspiring Data Analyst_
 ## Skills
 - Python
 - SQL
+- R
+- Google Colab
 - Excel
-- Pandas
-- Matplotlib / Seaborn
-- Power BI
-- Fast Learner
+- Tableau & Power BI
+- Data Cleaning
+- Data Analysis
+- Data Visualization
 
 ## Featured Projects
 - **Project 1**: [Course Recommendation System](https://github.com/Andrea-Pezzella/Course-Recommendation-System) – Machine learning model that predicts student success and generates personalized course recommendations using academic data.
