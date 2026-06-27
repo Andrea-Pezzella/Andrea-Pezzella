@@ -41,7 +41,7 @@ _Computer Science graduate with a strong foundation in Data Analytics, Machine L
 - 📈 [Social Media Trend Analysis](https://github.com/Andrea-Pezzella/Social-Media-Trend_Analysis) --> _Built a custom MapReduce pipeline to process millions of social media records, identifying trending hashtags, user behavior, and engagement patterns._
 - 📊 [Sales Analytics Dashboard](https://github.com/Andrea-Pezzella/Sales-Analytics-Dashboard) --> _End-to-end data analytics project using SQL Server and Excel to analyze sales data, calculate business KPIs, identify trends, and build an executive dashboard._
 - 🎓 [ML Course Recommendation System](https://github.com/Andrea-Pezzella/Course-Recommendation-System) --> _Machine learning model predicting student success and generating personalized course recommendations using Python, Scikit-learn, Logistic Regression, and Random Forest._
-- 👥 [HR Analytics Dashboard](https://public.tableau.com/app/profile/andrea.pezzella/vizzes) --> _Interactive Tableau dashboard visualizing employee attrition, demographics, satisfaction, and workforce KPIs to support data-driven HR decision-making._
+- 👥 [HR Analytics Dashboard](https://github.com/Andrea-Pezzella/HR-Analytics-Dashboard) --> _Interactive Tableau dashboard visualizing employee attrition, demographics, satisfaction, and workforce KPIs to support data-driven HR decision-making._
 
 ## 📫 Connect
 
