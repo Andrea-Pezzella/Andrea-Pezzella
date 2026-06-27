@@ -1,3 +1,6 @@
+# About me
+_Computer Science graduate with a strong foundation in Data Analytics, Machine Learning, and Software Engineering. I enjoy transforming complex datasets into meaningful insights through data visualization, predictive modeling, and business intelligence. Experienced with Python, SQL, Tableau, AI Data Annotation and scalable data processing techniques through academic and real-world AI projects._
+
 ## 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
